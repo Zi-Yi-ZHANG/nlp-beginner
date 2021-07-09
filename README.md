@@ -26,7 +26,7 @@
 4. 需要了解的知识点：
 
    1. 文本特征表示：~~Bag-of-Word，N-gram~~
-   2. 分类器：~~logistic/softmax  regression~~，损失函数、（随机）梯度下降、特征选择
+   2. 分类器：~~logistic/softmax  regression，损失函数、（随机）梯度下降、特征选择~~
    3. 数据集：训练集/验证集/测试集的划分
    4. Mine: 熵，稍微回顾下矩阵求导
 5. 实验：
